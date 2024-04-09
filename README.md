@@ -1,9 +1,10 @@
 ![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Sachin Prabuditha</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinprabuditha&label=Profile%20views&color=0e75b6&style=flat" alt="sachinprabuditha" /> </p>
+<h3 align="center">Passionate undergraduate IT Student from Sri Lanka</h3>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sachinprabuditha&label=Profile%20views&color=0e75b6&style=flat" alt="sachinprabuditha" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ksprabuditha" target="blank"><img src="https://img.shields.io/twitter/follow/ksprabuditha?logo=twitter&style=for-the-badge" alt="ksprabuditha" /></a> </p>
+<p align="center"> <a href="https://twitter.com/ksprabuditha" target="blank"><img src="https://img.shields.io/twitter/follow/ksprabuditha?logo=twitter&style=for-the-badge" alt="ksprabuditha" /></a> </p>
 
 - 🌱 I’m undergraduate at **SLIIT**
 
